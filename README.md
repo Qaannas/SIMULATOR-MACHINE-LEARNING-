@@ -37,6 +37,10 @@ Observe the results in real-time through visualizations.
 
 ## Demonstration
 
+### K-MEANS Simulation 
+
 ![K-MEANS Simulation](Demo/DEMO1.PNG)
+
+### SVM Simulation 
 
 ![SVM Simulation](Demo/DEMO2.PNG)
