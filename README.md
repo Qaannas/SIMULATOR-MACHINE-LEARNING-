@@ -20,7 +20,7 @@ To set up the project, clone this repository and install the required dependenci
 git clone <repository-url>
 cd <repository-directory>
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
@@ -28,7 +28,7 @@ Run the application:
 
 ```bash
 python main.py
-
+```
 Use the GUI to select the machine learning algorithm you wish to simulate.
 
 Adjust the parameters to see how they affect the model's performance.
